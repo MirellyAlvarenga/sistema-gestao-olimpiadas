@@ -49,15 +49,15 @@ Como organizador, quero gerar relatórios de medalhas por país, para acompanhar
 
 ### Diagrama de Caso de Uso
 
-<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/imagens/diagrama-de-caso-de-uso.png"/>
+<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-caso-de-uso.jpg"/>
 
 ### Diagrama de Classes
 
-<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/imagens/diagrama-de-classes.png"/>
+<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
 
 ### Diagrama de Pacotes
 
-<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/imagens/diagrama-de-pacotes.png"/>
+<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-pacotes.png"/>
 
 ### Diagrama de Componentes
 
