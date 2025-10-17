@@ -81,8 +81,6 @@ Como organizador, quero gerar relatórios de medalhas por país, para acompanhar
 │   ├── diagrama-de-componentes.png
 │   └── diagrama-de-implantacao.png
 └── modelagens/
-  ├── diagrama-de-caso-de-uso.drawio
-  ├── diagrama-de-classes.drawio
   ├── diagrama-de-pacotes.drawio
   ├── diagrama-de-componentes.drawio
   └── diagrama-de-implantacao.drawio
