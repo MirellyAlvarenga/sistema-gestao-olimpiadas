@@ -61,7 +61,7 @@ Como organizador, quero gerar relatórios de medalhas por país, para acompanhar
 
 ### Diagrama de Componentes E Implantação
 
-<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/imagens/Diagrama-de-implantacao-e-componente.jpg"/>
+<img width="500px" src="https://github.com/MirellyAlvarenga/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama-de-implantacao-e-componente.jpg"/>
 
 ---
 
